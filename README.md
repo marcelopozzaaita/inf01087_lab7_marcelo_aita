@@ -4,3 +4,6 @@ Curso: Ciência da Computação
 Disciplina: INF01087# inf01087_lab7_marcelo_aita
 
 Sobre mim eu sou Marcelo tenho 19 anos e sou aluno de CIC no primeiros semestre
+
+Projeto 
+Esse é o seção de projeto do lab 7
